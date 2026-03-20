@@ -54,9 +54,12 @@
 
 ## 📊 Profile Statistics
 
+## 📊 Activity & Statistics
+
 <div align=center>
-  <img src="https://github-readme-stats.vercel.app/api?username=FabianMaquen&theme=algolia&show_icons=true&count_private=true&bg_color=1e2b3c&border_color=B2E0FF&icon_color=95ccff&border_radius=20&include_all_commits=true&rank_icon=percentile" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=FabianMaquen&show_icons=true&locale=en&layout=compact&theme=algolia&bg_color=1e2b3c&border_color=B2E0FF&border_radius=20" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=FabianMaquen&theme=dark&show_icons=true&count_private=true&bg_color=0d1117&title_color=C97EDD&icon_color=C97EDD&text_color=ffffff&border_color=C97EDD&border_radius=20&include_all_commits=true&rank_icon=percentile" alt="Fabián's GitHub Stats" />
+
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=FabianMaquen&theme=dark&show_icons=true&locale=en&layout=compact&bg_color=0d1117&title_color=C97EDD&icon_color=C97EDD&text_color=ffffff&border_color=C97EDD&border_radius=20" alt="Fabián's Top Languages" />
 </div>
 
 ---
