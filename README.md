@@ -54,8 +54,6 @@
 
 ## 📊 Profile Statistics
 
-## 📊 Activity & Statistics
-
 <div align=center>
   <img src="https://github-readme-stats.vercel.app/api?username=FabianMaquen&theme=dark&show_icons=true&count_private=true&bg_color=0d1117&title_color=C97EDD&icon_color=C97EDD&text_color=ffffff&border_color=C97EDD&border_radius=20&include_all_commits=true&rank_icon=percentile" alt="Fabián's GitHub Stats" />
 
